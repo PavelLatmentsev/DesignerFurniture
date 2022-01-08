@@ -51,6 +51,17 @@
 	url('../fonts/AvenirNextCyr-Demi.ttf') format('truetype');
 }
 
+
+@font-face {
+	font-family: 'Avenir Next Cyr';
+	font-weight: normal;
+	font-style: normal;
+	src: local('Avenir Next Cyr Regular'), local('AvenirNextCyr-Regular'),
+	url('../fonts/AvenirNextCyr-Regular.woff') format('woff'),
+	url('../fonts/AvenirNextCyr-Regular.eot') format('eot'),
+	url('../fonts/AvenirNextCyr-Regular.ttf') format('truetype');
+}
+
 @font-face {
 	font-family: 'Playfair Display';
 	font-weight: normal;

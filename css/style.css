@@ -82,13 +82,18 @@ cursor: pointer;
 background-color: transparent;
 border: none;
 }
-
+.store-header-right_item:nth-child(1) {
+    padding: 0;
+}
 .store-header-right_item:nth-child(2) {
 margin-left: 22px;
+padding: 0;
 }
 .header_burger {
     display: none;
-    }
+}
+
+
 /* конец header-menu раздел навигации-------------------------------------------------------------------------------------------- */
 
 /* Начало верстки  первого блока со слайдером навигации(slick-slider-first)---------------------------------------------------------------- */
@@ -374,7 +379,7 @@ margin: 0 auto;
 margin-bottom: 25px;
 }
 
-.sliderbox_header, .sliderbox_subtitle  {
+.sliderbox_header {
 font-family: 'Open Sans', sans-serif;
 font-weight: bold;
 font-size: 18px;
@@ -383,8 +388,12 @@ color: #444348;
 }
 
 .sliderbox_subtitle {
+font-family: 'Avenir Next Cyr';
 font-weight: normal;
 font-size: 16px;
+line-height: 24.7px;
+text-align: center;
+color: #444348;
 }
 
 .sliderbox_title {

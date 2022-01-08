@@ -364,6 +364,13 @@ background-color: #ffffff;
 body.lock{
 overflow: hidden;
 }
+.store-header-right_wrapper {
+    display: flex;
+    align-items:center;
+}
+.store-header-right {
+    margin-right: 40px;
+}
 
 /* Конец бургер меню-------------------------------------------------------------------------------------------- */
 .description_header {
