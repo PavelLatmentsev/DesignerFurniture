@@ -8,7 +8,7 @@ DesignerFurniture - Магазин дизайнерской мебели
 # Как запустить наш проект.
 
 1) [Зайти в репозиторий(<-------Нажать сюда)](https://github.com/PavelLatmentsev/DesignerFurniture.git).
-2) [Скачать проэкт (<-------Нажать сюда)](https://github.com/PavelLatmentsev/DesignerFurniture/archive/refs/heads/main.zip) 
+2) [Скачать проект (<-------Нажать сюда)](https://github.com/PavelLatmentsev/DesignerFurniture/archive/refs/heads/main.zip) 
 или нажать кнопку **Code** и выбрать **Download zip**.
  
       ![Download Zip](img/redme/repository.png)
@@ -25,10 +25,10 @@ DesignerFurniture - Магазин дизайнерской мебели
 + ### JAVASCRIPT - Использован для работы слайдера.
 + ### JQUERY - Использован для работы слайдера.
 + ### [BURGER-MENU](https://www.youtube.com/watch?v=chJQofBSx94) - Адаптивное бургер меню сделанное на css,html и javascript.Было выполненно при помощи видео инструкции на **Youtube**.
-+ ### [SLICK-SLIDER](https://kenwheeler.github.io/slick/) - В проэкте используется слик слайдер в трёх секциях с различными настройками.
++ ### [SLICK-SLIDER](https://kenwheeler.github.io/slick/) - В проекте используется слик слайдер в трёх секциях с различными настройками.
 
 # Адаптивность
-+ #### Проэкт тестировался на разрешениях 1920px,1440px,1024px,768px,425px,375px,320px.
++ #### Проект тестировался на разрешениях 1920px,1440px,1024px,768px,425px,375px,320px.
 + #### Тестирование проходило в браузере Chrome версии 97.0.4692.71  и Mozilla Firefox версии 95.0.2 (64 бита).
 
 # Проблемы с которыми пришлось столкнуться.
